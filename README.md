@@ -34,6 +34,7 @@ plt.title('Interactive Line Chart Example')
 plt.grid(True)
 plt.show()
 
+```
 
 
 ## Static Line Chart Example
