@@ -33,3 +33,9 @@ plt.ylabel('Y-axis')
 plt.title('Interactive Line Chart Example')
 plt.grid(True)
 plt.show()
+
+
+
+## Static Line Chart Example
+
+![Static Line Chart](https://quickchart.io/chart?c={type:'line',data:{labels:['Jan','Feb','Mar','Apr','May'],datasets:[{label:'Example Data',data:[10,20,30,40,50]}]})
